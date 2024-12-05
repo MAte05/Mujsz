@@ -1,8 +1,0 @@
-Informatikai középszintű érettségi:
-Szövegszerkesztés
-Prezentáció
-Weblapszerkesztés
-Táblázatkezelés
-Adatbázis-kezelés
-
-Informatikai emelt szintű érettségi:
